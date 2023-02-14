@@ -6,4 +6,4 @@
 
 - 🗣Multilingual : [English], [Kannada], [Hindi], [Telugu]
 
-- 📫 You can reach me at [LinkedIn](www.linkedin.com/in/priya-m-918a27248)
+- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/priya-m-918a27248/)
