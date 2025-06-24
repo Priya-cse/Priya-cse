@@ -37,8 +37,14 @@
   <img src="https://img.shields.io/badge/Playwright-694ED6?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-D51F2D?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+---
 
+## 🌟 Pinned Projects
 
+<p align="center">
+  <a href="https://github.com/priya-malemath/event-snap">
+    <img align="top" src="https://github.com/Priya-cse/DoodleRecognition" />
+  </a>
 ---
 
 ## 📫 Connect with Me
