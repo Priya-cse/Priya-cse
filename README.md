@@ -42,8 +42,7 @@
 ## 🌟 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/priya-malemath/event-snap">
-    <img align="top" src="https://github.com/Priya-cse/DoodleRecognition" />
+  <a href="https://github.com/Priya-cse/DoodleRecognition">
   </a>
 ---
 
