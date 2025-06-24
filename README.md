@@ -40,15 +40,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priya-malemath&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priya-malemath&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## 🌟 Pinned Projects
 
 <p align="center">
