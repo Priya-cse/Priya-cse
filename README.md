@@ -9,8 +9,6 @@
 <p align="center">
   <strong>📞</strong> (+91) 90195 29770 &nbsp;|&nbsp;
   <strong>✉️</strong> mpriya1043@gmail.com &nbsp;|&nbsp;
-  <strong>GitHub</strong> <a href="https://github.com/priya-malemath">pri ya-malemath</a> &nbsp;|&nbsp;
-  <strong>Portfolio</strong> <a href="https://github.com/priya-malemath">pri ya-cse</a>
 </p>
 
 ---
