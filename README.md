@@ -13,7 +13,7 @@
 
 ## 🚀 What I Do
 - 🌱 **Learning** advanced Retrieval-Augmented Generation, prompt engineering and Large Language Models
-- 💬 **Ask me about** LLM fine-tuning, Pinecone, Playwright, RAG  
+- 💬 **Ask me about** LLM fine-tuning, Pinecone, Playwright, RAG, NLP
 
 ---
 
