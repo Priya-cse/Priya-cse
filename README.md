@@ -14,7 +14,6 @@
 ## 🚀 What I Do
 - 🌱 **Learning** advanced Retrieval-Augmented Generation, prompt engineering and Large Language Models
 - 💬 **Ask me about** LLM fine-tuning, Pinecone, Playwright, RAG  
-- ⚡ **Fun fact**: I speak 4 languages and ❤️ open-source Q&A  
 
 ---
 
