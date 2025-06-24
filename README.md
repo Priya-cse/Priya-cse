@@ -1,83 +1,80 @@
-<h1 align="center"><b>Hi, I’m Priya Malemath</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  👋 Hi there, I’m Priya Malemath
+</h1>
 
 <p align="center">
-  <a href="https://github.com/priya-malemath/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Priya+Malemath;Computer+Science+Engineer;AI%2FML+Enthusiast;Building+Healthcare+AI+Solutions" alt="Typing SVG"/>
+  <a href="https://github.com/priya-malemath">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFDD&width=600&lines=Computer+Science+Engineer;AI%2FML+Enthusiast;Building+Healthcare+AI+Pipelines" alt="Typing SVG" />
+  </a>
+</p>
+</p>
+
+---
+
+## 🚀 What I Do
+- 🔭 **Currently** building production-grade healthcare AI at MediCodio  
+- 🌱 **Learning** advanced Retrieval-Augmented Generation & prompt engineering  
+- 💬 **Ask me about** LLM fine-tuning, Pinecone, Playwright, RAG  
+- ⚡ **Fun fact**: I speak 4 languages and ❤️ open-source Q&A  
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/OpenAI-F43278?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFA8E0?style=for-the-badge&logo=huggingface&logoColor=white" />
+
+  <!-- Data & DevOps -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-6D52FF?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-694ED6?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-D51F2D?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priya-malemath&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priya-malemath&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 🌟 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/priya-malemath/event-snap">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=priya-malemath&repo=event-snap&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/priya-malemath/medical-code-predictor">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=priya-malemath&repo=medical-code-predictor&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/priya-malemath/semantic-search-demo">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=priya-malemath&repo=semantic-search-demo&theme=tokyonight" />
   </a>
 </p>
 
-<p align="center">
-  <strong>📞</strong> (+91) 90195 29770 &nbsp;|&nbsp;
-  <strong>✉️</strong> mpriya1043@gmail.com &nbsp;|&nbsp;
-</p>
-
 ---
 
-## 🏫 Education
-
-- **KLE Technological University, Hubballi**  
-  B.Tech in Computer Science Engineering, GPA 8.56 &nbsp;|&nbsp; 2024
-
-- **Surabhi PU College, Hosapete**  
-  Higher Secondary Education, 89.5% &nbsp;|&nbsp; 2020
-
----
-
-## 💼 Experience
-
-**Software Engineer**  
-*MediCodio, Bengaluru* &nbsp;|&nbsp; June 2024 – Present  
-- Architected & deployed production-grade AI pipelines leveraging LLMs for medical-code prediction.  
-- Designed & implemented end-to-end fine-tuning workflows on proprietary clinical datasets, achieving a Z-point lift in F1 score.  
-- Engineered advanced prompt-engineering strategies and integrated Retrieval-Augmented Generation (RAG) with Pinecone for sub-second semantic retrieval.  
-- Automated full-stack UI validation using Playwright, reducing regression testing cycles from days to hours.
-
-**AI/ML Intern**  
-*MediCodio, Bengaluru* &nbsp;|&nbsp; Jan 2024 – Jun 2024  
-- Supported NLP pipelines for extracting & normalizing clinical entities from unstructured medical text.  
-- Conducted comparative analyses of LLM architectures; curated domain-specific datasets to fine-tune models for code prediction.  
-- Researched & prototyped semantic-search solutions with Pinecone embeddings to enhance retrieval accuracy for rare medical terminology.
-
----
-
-## 🚀 Projects
-
-> _Coming soon!_
-
-_(You can list your key projects here with a brief bullet point description for each.)_
-
----
-
-## 🛠️ Skills
-
-**Programming Languages**  
-Python · SQL · C++
-
-**AI/ML Frameworks & Libraries**  
-OpenAI API · TensorFlow · Hugging Face Transformers · Langchain
-
-**Data Science & Visualization**  
-Pandas · NumPy · PyTorch · Matplotlib · Seaborn
-
-**Version Control & CI/CD**  
-Git · GitHub · Playwright (UI testing)
-
-**Databases & Vector Stores**  
-PostgreSQL · Pinecone
-
-**Other Tools**  
-Jupyter · VS Code · Databricks
-
----
-
-## 🤝 Let’s Connect
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priya-m-918a27248/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%2300ACEE.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:mpriya1043@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/Priya__m_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://www.linkedin.com/in/priya-m-918a27248/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
