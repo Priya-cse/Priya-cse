@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/priya-malemath">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFDD&width=700&lines=Generative+AI+%26+Software+Engineer;LLM+Fine-tuning+%7C+RAG+Pipelines+%7C+NLP;Building+Healthcare+AI+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=700&lines=Generative+AI+%26+Software+Engineer;LLM+Fine-tuning+%7C+RAG+Pipelines+%7C+NLP" alt="Typing SVG" />
   </a>
 </p>
+
 
 ---
 
@@ -61,7 +62,7 @@
 ## 💼 Experience
 - **Associate Software Engineer – [MediCodio](https://medicodio.ai/)**  
   <img src="https://tse4.mm.bing.net/th/id/OIP.n0tyuuHt3a36esG9uWMB7AAAAA?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" width="100" />  
-  *June 2025 – Present*  
+  *June 2025 – August 2025*  
   Fine-tuned transformer APIs, boosting medical prediction accuracy by 25%, co-led architecture redesign reducing code complexity by 30%.  
 
 - **Software Engineer Trainee – [MediCodio](https://medicodio.ai/)**  
@@ -89,7 +90,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:mpriya1043@gmail.com">
+  <a href="priyamalemath@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
