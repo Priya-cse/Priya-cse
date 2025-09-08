@@ -2,13 +2,10 @@
   👋 Hi, I'm Priya Malemath
 </h1>
 
-<p align="center">
-  <a href="https://github.com/priya-malemath">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=700&lines=Generative+AI+%26+Software+Engineer;LLM+Fine-tuning+%7C+RAG+Pipelines+%7C+NLP" alt="Typing SVG" />
-  </a>
+<!-- Alternative static centered tagline -->
+<p align="center" style="color:#6A5ACD; font-size:20px; font-weight:bold;">
+  Generative AI & Software Engineer
 </p>
-
-
 ---
 
 ## 🚀 About Me
